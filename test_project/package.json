@@ -1,0 +1,6 @@
+{
+    "name": "test_project",
+    "dependencies": {
+        "typescript": "^4.6.4"
+    }
+}
